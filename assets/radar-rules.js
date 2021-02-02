@@ -2646,3 +2646,66 @@
         ],
     },
 });
+    'jlbtc.edu.cn': {
+        _name: '吉林工商学院',
+        home: [
+            {
+                title: '学院新闻',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan',
+                source: '/tzgg.htm',
+                target: '/ jlbtc /home',
+            },
+        ],
+        jwc1: [
+            {
+                title: '教务处教学建设通知',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan',
+                source: '/*',
+                target: '/jwc1/1948',
+            },
+            {
+                title: '教务处教学运行通知',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan',
+                source: '/*',
+                target: '/jwc1/1947',
+            },
+            {
+                title: '教务处通知公告',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan',
+                source: '/*',
+                target: '/jwc1/1887',
+            },
+            {
+                title: '教务处学籍考务通知',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan',
+                source: '/*',
+                target: '/jwc1/2011',
+            },
+    {
+                title: '教务处教师发展通知',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan',
+                source: '/*',
+                target: '/jwc1/1949',
+            },
+    {
+                title: '教务处教务新闻',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan',
+                source: '/*',
+                target: '/jwc1/1888',
+            },
+        ],
+        kyc: [
+            {
+                title: '科研处通知',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan ',
+                source: '/*',
+                target: '/kyc/tzgg',
+},
+{
+                title: '科研处新闻动态',
+                docs: 'https://docs.rsshub.app/university.html#ji-lin-gong-shang-xue-yuan ',
+                source: '/*',
+                target: '/kyc/xwdt',
+},
+        ],
+    },
